@@ -21,6 +21,14 @@ While traditional reinforcement learning focuses on learning optimal actions thr
 - **Scalable Performance**: Optimize LLMs with algorithms like **PPO**, **DPO**, and **GRPO**—designed for the unique needs of NLP tasks.
 - **Flow of Q-Values**: Keep track of how Q-values evolve throughout the training process, making the optimization smoother and more intuitive.
 
+## Available RL Algorithms
+
+QFlow supports several powerful RL algorithms that can be used to fine-tune your large language models. Choose the one that fits your training requirements:
+
+- [x] **Proximal Policy Optimization (PPO)**
+- [x] **Deterministic Policy Optimization (DPO)**
+- [x] **Generalized Policy Gradient Optimization (GRPO)**
+
 ## Installation
 
 To get started with **QFlow**, simply clone the repository and install the dependencies:
