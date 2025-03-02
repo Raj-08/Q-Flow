@@ -22,11 +22,11 @@ While traditional reinforcement learning focuses on learning optimal actions thr
 
 QFlow supports several powerful RL algorithms that can be used to fine-tune your large language models. Choose the one that fits your training requirements:
 
-- [x] **Proximal Policy Optimization (PPO)**
-- [x] **Direct Preference Optimization (DPO)**
-- [x] **Group Relative Policy Optimization (GRPO)**
 - [x] **Reinforce-Lite**
-- [ ] **Monte-Carlo**
+- [x] **Monte-Carlo**
+- [ ] **Proximal Policy Optimization (PPO)**
+- [ ] **Direct Preference Optimization (DPO)**
+- [ ] **Group Relative Policy Optimization (GRPO)**
 
 ## Installation
 
