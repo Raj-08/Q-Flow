@@ -3,7 +3,7 @@
 
 # QFlow
 
-Welcome to **QFlow**, we focus on advancing Research And Development on Reinforcement Learning (RL) for LLMs. At **QFlow**, we don’t just apply traditional RL techniques to LLMs—we’ve crafted a dedicated toolbox packed with innovative solutions to help you unlock the full potential of reinforcement learning.
+Welcome to **QFlow**, we focus on advancing Research And Development on Reinforcement Learning (RL) for LLMs. At **QFlow**, we give Reinforcement Learning for Large Language Models the special treatment that it deserves. We dig deep into the first principles of Reinforcement Learning , inspiring ideas from classic RL , Game Theory , Evolutionary Algorithms and more to create magic with Reinforcement Learning on Large Language Models.  
 
 ## What is QFlow?
 
