@@ -23,9 +23,9 @@ While traditional reinforcement learning focuses on learning optimal actions thr
 
 QFlow supports several powerful RL algorithms that can be used to fine-tune your large language models. Choose the one that fits your training requirements:
 
-- [x] **Reinforce-Lite**
-- [x] **Monte-Carlo**
-- [x] **Group Relative Policy Optimization (GRPO)**
+- [x] **Reinforce-Lite** (Displays Emergence while being computationally affordable)
+- [x] **Monte-Carlo**  (Simple RL Monte Carlo , expectation over a sample of returns)
+- [x] **Group Relative Policy Optimization (GRPO)** (DeepSeek's RL Algorithm)
 - [ ] **Proximal Policy Optimization (PPO)**
 - [ ] **Direct Preference Optimization (DPO)**
 - [ ] **Actor Critic (A2C)**
