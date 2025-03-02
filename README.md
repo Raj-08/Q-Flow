@@ -12,6 +12,16 @@ Welcome to **QFlow**, we focus on advancing Research And Development on Reinforc
 
 While traditional reinforcement learning focuses on learning optimal actions through trial and error, **QFlow** introduces a unique methodology specifically tailored to the nuances of language models. We provide a toolbox with solutions that bring efficiency, creativity, and adaptability to RL applications for LLMs.
 
+
+## Installation
+
+To get started with **QFlow**, simply clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/Raj-08/QFlow.git
+cd QFlow
+pip install -r requirements.txt
+
 ## Features
 
 - **Dedicated Toolbox**: A set of tools designed to handle reinforcement learning challenges specific to LLMs.
@@ -31,11 +41,4 @@ QFlow supports several powerful RL algorithms that can be used to fine-tune your
 - [ ] **Actor Critic (A2C)**
 
 
-## Installation
 
-To get started with **QFlow**, simply clone the repository and install the dependencies:
-
-```bash
-git clone https://github.com/Raj-08/QFlow.git
-cd QFlow
-pip install -r requirements.txt
