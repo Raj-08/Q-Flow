@@ -1,10 +1,9 @@
 # Q-FLOW
-The Complete Reinforcement Learning ToolBox for Large Language Models !
 ![Alt Text](images/img-copy.jpg)
 
 # QFlow
 
-Welcome to **QFlow**, a revolutionary approach to reinforcement learning (RL) designed specifically for large language models (LLMs). At **QFlow**, we don’t just apply traditional RL techniques to LLMs—we’ve crafted a dedicated toolbox packed with innovative solutions to help you unlock the full potential of reinforcement learning.
+Welcome to **QFlow**, we focus on advancing Research And Development on Reinforcement Learning (RL) for LLMs. At **QFlow**, we don’t just apply traditional RL techniques to LLMs—we’ve crafted a dedicated toolbox packed with innovative solutions to help you unlock the full potential of reinforcement learning.
 
 ## What is QFlow?
 
