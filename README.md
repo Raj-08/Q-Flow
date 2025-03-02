@@ -34,6 +34,6 @@ QFlow supports several powerful RL algorithms that can be used to fine-tune your
 To get started with **QFlow**, simply clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/QFlow.git
+git clone https://github.com/Raj-08/QFlow.git
 cd QFlow
 pip install -r requirements.txt
