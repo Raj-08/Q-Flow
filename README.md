@@ -1,3 +1,3 @@
 # Q-FLOW
-A Lightweight Reinforcement Learning Algorithm For inducing Reasoning in LLMs!
+A Simple Reinforcement Learning ToolBox for Large Language Models
 ![Alt Text](images/image.png)
