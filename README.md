@@ -16,8 +16,7 @@ While traditional reinforcement learning focuses on learning optimal actions thr
 
 - **Dedicated Toolbox**: A set of tools designed to handle reinforcement learning challenges specific to LLMs.
 - **Creative Solutions**: Breakthrough techniques and methodologies that make training language models faster, smarter, and more efficient.
-- **Scalable Performance**: Optimize LLMs with algorithms like **PPO**, **DPO**, and **GRPO**—designed for the unique needs of NLP tasks.
-- **Flow of Q-Values**: Keep track of how Q-values evolve throughout the training process, making the optimization smoother and more intuitive.
+- **Scalable Performance**: Optimize LLMs with algorithms like **PPO**, **DPO**, and **GRPO**—designed for the unique needs of the LLM world.
 
 ## Available RL Algorithms
 
