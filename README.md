@@ -17,7 +17,7 @@ While traditional reinforcement learning focuses on learning optimal actions thr
 - **Dedicated Toolbox**: A set of tools designed to handle reinforcement learning challenges specific to LLMs.
 - **Creative Solutions**: Breakthrough techniques and methodologies that make training language models faster, smarter, and more efficient.
 - **Scalable Performance**: Optimize LLMs with algorithms like **PPO**, **DPO**, and **GRPO**—designed for the unique needs of the LLM world.
-- **Hyperparameter Search**: We use Optuna to find the right configuration of hyperparametrs to make our trainings more effective.
+- **Hyperparameter Search**: We use Evolutionary Algorithms to find the right configuration of hyperparametrs to make our trainings more effective.
 
 ## Available RL Algorithms
 
