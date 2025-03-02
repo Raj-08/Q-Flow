@@ -6,7 +6,7 @@
 Welcome to **QFlow**, we focus on advancing Research And Development on Reinforcement Learning (RL) for LLMs. At **QFlow**, we give Reinforcement Learning for Large Language Models the special treatment that it deserves. We dig deep into the first principles of Reinforcement Learning reimaginining the entire spectrum creating interesting and creative possibilities. 
 ## What is QFlow?
 
-**QFlow** is an RL framework designed to make fine-tuning and optimizing large language models more efficient and creative. We blend the power of **Q-values** with cutting-edge RL techniques to deliver a seamless learning experience that drives better performance in language models.
+**QFlow** is an RL framework designed to make fine-tuning and optimizing large language models more efficient and creative. 
 
 ### What makes QFlow different?
 
