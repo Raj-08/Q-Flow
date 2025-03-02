@@ -1,3 +1,3 @@
 # Q-FLOW
-A Simple Reinforcement Learning ToolBox for Large Language Models
+The Complete Reinforcement Learning ToolBox for Large Language Models !
 ![Alt Text](images/image.png)
