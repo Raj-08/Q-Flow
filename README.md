@@ -21,6 +21,7 @@ To get started with **QFlow**, simply clone the repository and install the depen
 git clone https://github.com/Raj-08/QFlow.git
 cd QFlow
 pip install -r requirements.txt
+```
 
 ## Features
 
