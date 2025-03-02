@@ -26,6 +26,7 @@ QFlow supports several powerful RL algorithms that can be used to fine-tune your
 - [x] **Direct Preference Optimization (DPO)**
 - [x] **Group Relative Policy Optimization (GRPO)**
 - [x] **Reinforce-Lite**
+- [ ] **Monte-Carlo**
 
 ## Installation
 
