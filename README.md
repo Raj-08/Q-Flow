@@ -2,8 +2,7 @@
 ![Alt Text](images/img-copy.jpg)
 
 
-Welcome to **Q-Flow**, we focus on advancing Research And Development on Reinforcement Learning (RL) for LLMs. At **QFlow**, we give Reinforcement Learning for Large Language Models the special treatment that it deserves. We dig deep into the first principles of Reinforcement Learning reimaginining the entire spectrum creating interesting and creative possibilities. 
-
+Welcome to **Q-Flow**, we focus on advancing open source development on Reinforcement Learning (RL) for LLMs. At **QFlow**, we treat the 
 
 ### What makes QFlow different?
 
@@ -90,7 +89,9 @@ python main.py --algorithm monte-carlo \
 ### Monitoring Training with TensorBoard
 
 QFlow automatically logs training metrics to TensorBoard. To view the training progress:
+![Alt Text](images/screen1.png)
 
+![Alt Text](images/screen2.png)
 1. Start TensorBoard server:
 ```bash
 tensorboard --logdir runs/
