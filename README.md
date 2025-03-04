@@ -9,8 +9,7 @@ Welcome to **Q-Flow**, we focus on advancing open source development on Reinforc
 While traditional reinforcement learning focuses on learning optimal actions through trial and error, **QFlow** introduces a unique methodology specifically tailored to the nuances of language models. We provide a toolbox with solutions that bring efficiency, creativity, and adaptability to RL applications for LLMs.
 
 
-### Highlights
-## Aha Moment with Limited Compute 
+### Highlights - Aha Moment with Limited Compute 
 ![Alt Text](images/aha.png)
 
 Our algorithm Reinforce-Lite was able to achieve Aha Moment on Grade School Math Dataset.
