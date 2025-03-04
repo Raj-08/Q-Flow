@@ -89,9 +89,9 @@ python main.py --algorithm monte-carlo \
 ### Monitoring Training with TensorBoard
 
 QFlow automatically logs training metrics to TensorBoard. To view the training progress:
-![Alt Text](images/screen1.png)
+![Alt Text](images/screen3.png)
 
-![Alt Text](images/screen2.png)
+![Alt Text](images/screen4.png)
 1. Start TensorBoard server:
 ```bash
 tensorboard --logdir runs/
