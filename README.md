@@ -38,7 +38,12 @@ QFlow supports several powerful RL algorithms that can be used to fine-tune your
 - [ ] **Direct Preference Optimization (DPO)**
 - [ ] **Actor Critic (A2C)**
 
-## Usage
+## Available Datasets
+
+QFlow has out of the box support for reasoning datasets. We will expand further into process reward datasets. 
+
+- [x] **GSM8K** GradeSchoolMath
+- [ ] **Math500**  
 
 QFlow provides a simple command-line interface to train your models using different RL algorithms. Here are some examples:
 
