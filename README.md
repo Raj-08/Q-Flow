@@ -9,7 +9,12 @@ Welcome to **Q-Flow**, we focus on advancing open source development on Reinforc
 While traditional reinforcement learning focuses on learning optimal actions through trial and error, **QFlow** introduces a unique methodology specifically tailored to the nuances of language models. We provide a toolbox with solutions that bring efficiency, creativity, and adaptability to RL applications for LLMs.
 
 
-## Installation
+### Highlights
+## Aha Moment with Limited Compute 
+![Alt Text](images/aha.png)
+
+Our algorithm Reinforce-Lite was able to achieve Aha Moment on Grade School Math Dataset.
+https://medium.com/@rjusnba/overnight-end-to-end-rl-training-a-3b-model-on-a-grade-school-math-dataset-leads-to-reasoning-df61410c04c6
 
 To get started with **QFlow**, simply clone the repository and install the dependencies:
 
