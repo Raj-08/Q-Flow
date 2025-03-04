@@ -1,9 +1,0 @@
-bitsandbytes
-accelerate
-transformers
-peft
-typing_extensions==4.7.1 
-datasets
-tensorboard
-openai
-flash-attn
