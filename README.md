@@ -2,7 +2,7 @@
 ![Alt Text](images/img-copy.jpg)
 
 
-Welcome to **Q-Flow**, we focus on advancing open source development on Reinforcement Learning (RL) for LLMs. At **QFlow**, we treat the 
+Welcome to **Q-Flow**, we focus on advancing open source development on Reinforcement Learning (RL) for LLMs. At **QFlow**, we provide the complete toolbox that specifically addresses the Reinforcement Learning Needs of Large Language Models. 
 
 ### What makes QFlow different?
 
