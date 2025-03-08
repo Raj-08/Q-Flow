@@ -2,12 +2,7 @@
 ![Alt Text](images/img-copy.jpg)
 
 
-Welcome to **Q-Flow**, we focus on advancing open source development on Reinforcement Learning (RL) for LLMs. At **QFlow**, we provide the complete toolbox that specifically addresses the Reinforcement Learning Needs of Large Language Models. 
-
-### What makes QFlow different?
-
-While traditional reinforcement learning focuses on learning optimal actions through trial and error, **QFlow** introduces a unique methodology specifically tailored to the nuances of language models. We provide a toolbox with solutions that bring efficiency, creativity, and adaptability to RL applications for LLMs.
-
+Welcome to **Q-Flow**, we focus on advancing open source development on Reinforcement Learning (RL) for LLMs. At **QFlow**, we provide the complete toolbox that specifically addresses the Reinforcement Learning Needs of Large Language Models. - Reasoning , Alignment and More !
 
 ### Highlights - Aha Moment with Limited Compute 
 ![Alt Text](images/aha.png)
