@@ -13,8 +13,8 @@ https://medium.com/@rjusnba/overnight-end-to-end-rl-training-a-3b-model-on-a-gra
 To get started with **QFlow**, simply clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/Raj-08/QFlow.git
-cd QFlow
+git clone https://github.com/Raj-08/Q-Flow.git
+cd Q-Flow
 pip install -r requirements.txt
 ```
 
